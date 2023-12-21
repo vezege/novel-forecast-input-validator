@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovelForecastBotInputChecker", "NovelForecastBotInputChecker.csproj", "{12EB4366-6BBD-49FD-BFA4-5FE61E2854B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EB4366-6BBD-49FD-BFA4-5FE61E2854B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EB4366-6BBD-49FD-BFA4-5FE61E2854B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EB4366-6BBD-49FD-BFA4-5FE61E2854B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EB4366-6BBD-49FD-BFA4-5FE61E2854B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B031821-7ED7-45A1-975B-D7712B6E4E96}
+	EndGlobalSection
+EndGlobal
